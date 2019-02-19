@@ -15,3 +15,7 @@ INSERT INTO series (title, author_id, subgenre_id) VALUES ("The Return of Sherlo
 
 INSERT INTO subgenres (name) VALUES ("Mystery Thriller");
 INSERT INTO subgenres (name) VALUES ("Adventure Thriller");
+
+
+INSERT INTO authors (name) VALUES ("Sir Arthur Conan Doyle");
+INSERT INTO authors (name) VALUES ("John Smith");
