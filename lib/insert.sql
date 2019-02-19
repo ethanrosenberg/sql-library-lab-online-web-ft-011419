@@ -10,6 +10,3 @@ INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ('Dr.
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ('Dan Cosgrove', "human", "Looks great chap", 2, 1);
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ('Milton Smith', "human", "Indeed. I concur", 2, 1);
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ('John Dallinger', "human", "I have to respectfully decline", 2, 1);
-
-
-
