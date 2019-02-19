@@ -19,7 +19,7 @@ INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
 
 
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("The Original Sherlock Holmes Volume 1", 1, 1);
-INSERT INTO series (title, author_id, subgenre_id) VALUES ("The Return of Sherlock Holmes", 1, 2;
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("The Return of Sherlock Holmes", 1, 2);
 
 INSERT INTO subgenres (name) VALUES ("Mystery Thriller");
 INSERT INTO subgenres (name) VALUES ("Adventure Thriller");
