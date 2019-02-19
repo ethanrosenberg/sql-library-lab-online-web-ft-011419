@@ -24,9 +24,15 @@ INSERT INTO authors (name) VALUES ("Sir Arthur Conan Doyle");
 INSERT INTO authors (name) VALUES ("John Smith");
 
 
-INSERT INTO books (name, title, year, series_id) VALUES ("Hound of the baskervilles", 1899, 1);
-INSERT INTO books (name, title, year, series_id) VALUES ("A sign of four", 1899, 1);
-INSERT INTO books (name, title, year, series_id) VALUES ("The man with the twisted lip", 1899, 1);
-INSERT INTO books (name, title, year, series_id) VALUES ("The solitary cyclist", 1898, 2);
-INSERT INTO books (name, title, year, series_id) VALUES ("The naval treaty", 1898, 2);
-INSERT INTO books (name, title, year, series_id) VALUES ("The dancing men", 1899, 2);
+INSERT INTO books (title, year, series_id) VALUES ("Hound of the baskervilles", 1899, 1);
+INSERT INTO books (title, year, series_id) VALUES ("A sign of four", 1899, 1);
+INSERT INTO books (title, year, series_id) VALUES ("The man with the twisted lip", 1899, 1);
+INSERT INTO books (title, year, series_id) VALUES ("The solitary cyclist", 1898, 2);
+INSERT INTO books (title, year, series_id) VALUES ("The naval treaty", 1898, 2);
+INSERT INTO books (title, year, series_id) VALUES ("The dancing men", 1899, 2);
+
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+
