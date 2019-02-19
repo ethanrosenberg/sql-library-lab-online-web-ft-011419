@@ -14,4 +14,4 @@ INSERT INTO series (id, title, author_id, subgenre_id) VALUES ("The Original She
 INSERT INTO series (id, title, author_id, subgenre_id) VALUES ("The Return of Sherlock Holmes", 1, 1);
 
 INSERT INTO subgenres (name) VALUES ("Mystery Thriller");
-INSERT INTO subgenres (name) VALUES ("Military Thriller");
+INSERT INTO subgenres (name) VALUES ("Adventure Thriller");
