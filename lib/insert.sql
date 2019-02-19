@@ -12,7 +12,9 @@ INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ('Mil
 INSERT INTO characters (name, species, motto, series_id, author_id) VALUES ('John Dallinger', "human", "I have to respectfully decline", 2, 1);
 
 
-INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
 INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
 
 
